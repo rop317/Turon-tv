@@ -11,13 +11,13 @@ https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
 #EXTINF:4 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV
 https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:4 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Zor TV HD
-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:4 group-title="1 UZBEKISTAN",Zor TV HD
+https://stream8.cinerama.uz/7016/tracks-v3a1/mono.m3u8?token=v4U6uf8YTXmmSw7yoWLPCMK47hgfW8fpvgHwWyFGPHWbfwPsluQDW-2PY50zgkCBiBuNujfR38yL5c7PCikw_ub137_-GciyFlJ2GjfXB0qrx1WuyF53jB4eLR5t_II-TwxWZQe_tm4riTS-bHUxtcLf3WvAqk6jQTaic1Ta4C7BbCJWu6jemtVNxaK3JUHXL2KYvb5mZ4xqn0X7CpgtOjW_GV2Dvdybqc21TizRLRHONhj6c8t53GEtpj-vln9oCBRNwV8SMqkUtY-U1YZ4koIoJMdkdpx-0hzfl6OrgMnkgtvm88XcENFhnE6QVoemsgb5xebhAjSXNt1Eo8ngL3yoLq8fCzD0xvYT73MbKjM
 #EXTINF:5 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV kino
 https://stream8.cinerama.uz/1486/tracks-v1a1/mono.m3u8
 #EXTINF:5 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinoteatr
 https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:6 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/MTV Live HD.png",Qiziq Tv
+#EXTINF:6 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/MTV Live HD.png" tvg-id="simpleTVFakeEpgId",Qiziq Tv
 https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
 #EXTINF:6 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",BizTV HD UZ
 https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
@@ -45,7 +45,7 @@ https://stream8.cinerama.uz/1469/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/4000/tracks-v1a1/mono.m3u8
 #EXTINF:14 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/NASA HD.png" tvg-id="simpleTVFakeEpgId",Nasaf Tv
 https://stream8.cinerama.uz/2025/tracks-v1a1/mono.m3u8
-#EXTINF:14 group-title="1 UZBEKISTAN",Ruxsor TV UZ
+#EXTINF:14 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Ruxsor TV UZ
 https://stream8.cinerama.uz/4008/tracks-v1a1/mono.m3u8
 #EXTINF:15 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Jaslar Tv
 https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
@@ -61,7 +61,7 @@ https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
 #EXTINF:19 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",UzSport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:20 group-title="1 UZBEKISTAN",RETRO
+#EXTINF:20 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",RETRO
 https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
 #EXTINF:20 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",Ntv UZ
 https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
@@ -109,11 +109,11 @@ https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:40 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" tvg-id="simpleTVFakeEpgId",Первый канала HD
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
-#EXTINF:41 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+#EXTINF:41 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png",НТВ
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8?token=PaZRXvfp6LNSjzCihR-dbednuRtcvCUDFQzckkOoXHQ5MYy9oPhWG6nKK6z5z0v25SUmmUU8b4RUjNBFRJ51x0BdK1QAGIBSTCpLLt5SXc_Z1z7eJVGryWeIjAP4Vn1FBYorSZb5iNvGzI4rixpUIWskkm4yP4wUqO598Gnq5wXpSLJQxiiCuGxIAD61udUWFWNBwHtr8qL1SNk22ojcGxkSujsZQBMvC_3S2excPf9C8qJvnOxRMSIEGBFqzlSkk1MJfB2qRqQk-PxZvopEqlVr-jhW6Nrrj3ICQ2ObU4OxE8cZIonnqM9Glx-IupcX347fTNyi7CRg6vpCpwCll9LcPRo2DZVR_EB8zzvBbEI
 #EXTINF:42 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ3
 https://stream8.cinerama.uz/1435/tracks-v1a1/mono.m3u8
-#EXTINF:43 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png",НТВ Мир
+#EXTINF:43 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" tvg-id="simpleTVFakeEpgId",НТВ Мир
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:44 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
@@ -175,17 +175,17 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:73 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
 https://stream8.cinerama.uz/1436/tracks-v1a1/mono.m3u8
-#EXTINF:74 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9495",Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:75 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9496",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:74 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 1.png",Setanta Sports 1 HD
+https://stream8.cinerama.uz/7263/tracks-v1a1/mono.m3u8
+#EXTINF:75 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png",Setanta Sports 2 HD
+https://stream8.cinerama.uz/7264/tracks-v1a1/mono.m3u8
 #EXTINF:76 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9322",MMA-TV.COM
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:77 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7672",Eurosport 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:78 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/viju+ Sport.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9387",Viasat Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:79 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Матч! Планета.png",Матч! Планета
+#EXTINF:79 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Матч! Планета.png" tvg-id="simpleTVFakeEpgId",Матч! Планета
 https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
 #EXTINF:80 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/TRACE Sport Stars HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9303",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
@@ -299,15 +299,15 @@ https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1032/tracks-v1a1/mono.m3u8
 #EXTINF:135 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/В гостях у сказки.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788",В Гостях У Сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:136 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Музыка первого.png",Музыка Первого
+#EXTINF:136 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Музыка первого.png" tvg-id="simpleTVFakeEpgId",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:137 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/1HD Music Television.png",1HD
+#EXTINF:137 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/1HD Music Television.png" tvg-id="simpleTVFakeEpgId",1HD
 https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:138 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/RU.TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8111",RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:139 group-title="2 RUSSIA" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId",МузТВ
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:140 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/ТНТ Music.png",ТНТ Music
+#EXTINF:140 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/ТНТ Music.png" tvg-id="simpleTVFakeEpgId",ТНТ Music
 https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:141 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Travelxp 4K.png" tvg-id="simpleTVFakeEpgId",TRT Avaz
 https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
@@ -315,5 +315,7 @@ https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:143 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/TORRE RICCA.png" tvg-id="simpleTVFakeEpgId",TRT Haber
 https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 UZBEKISTAN",Xorazm MTRK
+#EXTINF:-1 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Xorazm MTRK
 https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="",Новый канал
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8?token=PaZRXvfp6LNSjzCihR-dbednuRtcvCUDFQzckkOoXHQ5MYy9oPhWG6nKK6z5z0v25SUmmUU8b4RUjNBFRJ51x0BdK1QAGIBSTCpLLt5SXc_Z1z7eJVGryWeIjAP4Vn1FBYorSZb5iNvGzI4rixpUIWskkm4yP4wUqO598Gnq5wXpSLJQxiiCuGxIAD61udUWFWNBwHtr8qL1SNk22ojcGxkSujsZQBMvC_3S2excPf9C8qJvnOxRMSIEGBFqzlSkk1MJfB2qRqQk-PxZvopEqlVr-jhW6Nrrj3ICQ2ObU4OxE8cZIonnqM9Glx-IupcX347fTNyi7CRg6vpCpwCll9LcPRo2DZVR
