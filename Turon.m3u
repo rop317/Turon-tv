@@ -1,216 +1,96 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="simpleTVFakeEpgId",Первый канал HD
-http://57.128.196.110/00019/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId",Первый канал Европа
-http://57.128.196.110/00014/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="simpleTVFakeEpgId",НТВ HD
-http://57.128.196.110/00017/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="simpleTVFakeEpgId",НТВ-Мир
-http://57.128.196.110/00011/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="simpleTVFakeEpgId",Россия 1 HD
-http://57.128.196.110/00027/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="simpleTVFakeEpgId",Россия 24
-http://57.128.196.110/00013/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-id="simpleTVFakeEpgId",РТР-Планета Европа
-http://57.128.196.110/00015/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="simpleTVFakeEpgId",Россия К
-http://57.128.196.110/00101/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="simpleTVFakeEpgId",ТНТ HD
-http://57.128.196.110/00018/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-id="simpleTVFakeEpgId",ТНТ-International
-http://57.128.196.110/00120/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="simpleTVFakeEpgId",ТНТ4
-http://57.128.196.110/00035/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/СТС.png" tvg-id="simpleTVFakeEpgId",СТС
-http://57.128.196.110/00004/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="simpleTVFakeEpgId",СТС Love
-http://57.128.196.110/00016/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ
-http://57.128.196.110/00006/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="simpleTVFakeEpgId",ТВЦ
-http://57.128.196.110/00005/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-id="simpleTVFakeEpgId",ТВ3
-http://57.128.196.110/00007/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="simpleTVFakeEpgId",Звезда
-http://57.128.196.110/00009/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="simpleTVFakeEpgId",Звезда плюс HD
-http://57.128.196.110/00026/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="simpleTVFakeEpgId",Пятница
-http://57.128.196.110/00008/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="simpleTVFakeEpgId",Суббота!
-http://57.128.196.110/00100/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="simpleTVFakeEpgId",Домашний HD
-http://57.128.196.110/00030/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Че.png" tvg-id="simpleTVFakeEpgId",Че
-http://57.128.196.110/00089/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Ю.png" tvg-id="simpleTVFakeEpgId",Ю
-http://57.128.196.110/00099/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="simpleTVFakeEpgId",Сарафан
-http://57.128.196.110/00102/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Перец International.png" tvg-id="simpleTVFakeEpgId",Перец
-http://57.128.196.110/00103/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Дождь.png" tvg-id="simpleTVFakeEpgId",Дождь
-http://57.128.196.110/00104/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="simpleTVFakeEpgId",Euronews
-http://57.128.196.110/00095/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Известия.png" tvg-id="simpleTVFakeEpgId",Известия
-http://57.128.196.110/00105/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId",МИР
-http://57.128.196.110/00092/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="simpleTVFakeEpgId",МИР 24
-http://57.128.196.110/00093/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Центральное телевидение.png" tvg-id="simpleTVFakeEpgId",Центральное Телевидение
-http://57.128.196.110/00096/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="simpleTVFakeEpgId",Пятый канал
-http://57.128.196.110/00106/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Санкт-Петербург.png" tvg-id="simpleTVFakeEpgId",Санкт-Петербург
-http://57.128.196.110/00107/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-id="simpleTVFakeEpgId",Соловьев.Live
-http://57.128.196.110/00113/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="simpleTVFakeEpgId",Москва доверие
-http://57.128.196.110/00116/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Продвижение.png" tvg-id="simpleTVFakeEpgId",Продвижение
-http://57.128.196.110/00115/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/РБК.png" tvg-id="simpleTVFakeEpgId",РБК
-http://57.128.196.110/00091/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="simpleTVFakeEpgId",НТВ Право
-http://57.128.196.110/00083/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="simpleTVFakeEpgId",Зал суда
-http://57.128.196.110/00082/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="simpleTVFakeEpgId",НТВ Стиль
-http://57.128.196.110/00084/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="simpleTVFakeEpgId",ОТР
-http://57.128.196.110/00085/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/КВН ТВ.png" tvg-id="simpleTVFakeEpgId",КВН ТВ
-http://57.128.196.110/00097/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Анекдот ТВ.png" tvg-id="simpleTVFakeEpgId",Анекдот ТВ
-http://57.128.196.110/00098/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Мама.png" tvg-id="simpleTVFakeEpgId",Мама
-http://57.128.196.110/00090/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Психология.png" tvg-id="simpleTVFakeEpgId",Психология 21
-http://57.128.196.110/00081/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="simpleTVFakeEpgId",Первый вегетарианский
-http://57.128.196.110/00088/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Кухня ТВ.png" tvg-id="simpleTVFakeEpgId",Кухня ТВ
-http://57.128.196.110/00087/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="simpleTVFakeEpgId",FoodTime
-http://57.128.196.110/00086/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="simpleTVFakeEpgId",Губерния Самара
-http://57.128.196.110/00074/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="3 Российские" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="simpleTVFakeEpgId",Брянская Губерния
-http://57.128.196.110/00073/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports Ukraine
-http://57.128.196.110/10401/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports+ Ukraine
-http://57.128.196.110/10402/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports Premium
-http://57.128.196.110/10520/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 HD
-http://57.128.196.110/10502/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 2 HD
-http://57.128.196.110/10503/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports Qazaqstan
-http://57.128.196.110/10412/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 HD UZ
-http://57.128.196.110/20610/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 2 HD UZ
-http://57.128.196.110/20851/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports Moldova
-http://57.128.196.110/10504/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 Lietuva
-http://57.128.196.110/10505/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 Georgia
-http://57.128.196.110/10466/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 2 Georgia
-http://57.128.196.110/10467/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="2 Setanta Sports" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 3 Georgia
-http://57.128.196.110/10468/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="simpleTVFakeEpgId",Milliy TV
-http://serv1.milliy.tv/hls/index_480.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",MY5TV International
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Biz TV
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Biz Cinema
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Biz Music
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Madaniyat va Marifat
-https://st1.uzdigital.tv/Madaniyat_va_Marifat/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Uzbekiston 24
-https://st1.uzdigital.tv/Uzb24/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",MakonTV
-https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Toshkent HD
-https://st1.uzdigital.tv/Toshkent/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Futbol TV
-https://st1.uzdigital.tv/FutbolTV/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV Musiqa
-https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",MiMi
-https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Deutsche Welle.png" tvg-id="simpleTVFakeEpgId",Cheksiz TV
-http://57.128.196.110/11399/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Biz TV UZ
-http://57.128.196.110/11400/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Biz Cinema UZ
-http://57.128.196.110/11401/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Biz Music UZ
-http://57.128.196.110/11402/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",ZOR TV
-http://57.128.196.110/11403/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/My Zen TV HD.png" tvg-id="simpleTVFakeEpgId",My 5 HD
-http://57.128.196.110/11404/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Ozbekiston
-http://57.128.196.110/11405/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="simpleTVFakeEpgId",Sport UZ HD
-http://57.128.196.110/11406/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",YOSHLAR
-http://57.128.196.110/11407/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",TOSHKENT
-http://57.128.196.110/11408/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId",BOLAJON
-http://57.128.196.110/11409/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Sevimli TV
-http://57.128.196.110/11410/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",NAVO
-http://57.128.196.110/11411/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Namangan
-http://57.128.196.110/11412/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",MAHALLA
-http://57.128.196.110/11413/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",KINOTEATR
-http://57.128.196.110/11414/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Ozbekiston Tarixi
-http://57.128.196.110/11415/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Dunyo boylab
-http://57.128.196.110/11416/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="simpleTVFakeEpgId",MilliyTV
-http://57.128.196.110/11417/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",NURAFSHON TV
-http://57.128.196.110/11418/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Renessans TV
-http://57.128.196.110/11419/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Makon HD
-http://57.128.196.110/11420/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",ITV CINEMA HD
-http://57.128.196.110/10243/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",FTV UZ
-http://57.128.196.110/11806/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Qiziq HD
-http://57.128.196.110/11807/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",OZBEKISTON 24
-http://57.128.196.110/11800/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",Futbol TV
-http://57.128.196.110/11801/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-id="simpleTVFakeEpgId",S IKBOL HD
-http://57.128.196.110/11802/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Luxury HD.png" tvg-id="simpleTVFakeEpgId",LUX TV HD
-http://57.128.196.110/11803/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",NTV
-http://57.128.196.110/11804/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="1 Узбекистан" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId",Mediabay TV
-http://57.128.196.110/11805/index.m3u8?token=BF3A82BDF48F
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="simpleTVFakeEpgId",Первый канал
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="simpleTVFakeEpgId",Россия 1
+https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="simpleTVFakeEpgId",Россия 24
+https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-id="simpleTVFakeEpgId",5 Канал
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="simpleTVFakeEpgId",Россия К
+https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="simpleTVFakeEpgId",Мир24
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/РБК.png" tvg-id="simpleTVFakeEpgId",РБК
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/RT Arabic.png" tvg-id="simpleTVFakeEpgId",RT Doc HD
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-id="simpleTVFakeEpgId",TPO
+https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="simpleTVFakeEpgId",Вместе-РФ
+https://flussonic.mkpnet.ru/tv-33b10cf41a3fb597/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="simpleTVFakeEpgId",ТВЦ
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="simpleTVFakeEpgId",НТВ
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="simpleTVFakeEpgId",ТВ-3
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="simpleTVFakeEpgId",Рен-ТВ
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/СТС.png" tvg-id="simpleTVFakeEpgId",СТС
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-id="simpleTVFakeEpgId",CTC Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="simpleTVFakeEpgId",ТНТ 4
+https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Че!.png" tvg-id="simpleTVFakeEpgId",Че!
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Ю.png" tvg-id="simpleTVFakeEpgId",Ю
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="simpleTVFakeEpgId",ОТР
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="simpleTVFakeEpgId",Домашний
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Пятница!2.png" tvg-id="simpleTVFakeEpgId",Пятнитца!
+https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/8 канал Беларусь.png" tvg-id="simpleTVFakeEpgId",8 Канал
+https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Красная линия.png" tvg-id="simpleTVFakeEpgId",Красная Линия
+https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="simpleTVFakeEpgId",ЛДПР ТВ
+https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Точка ТВ.png" tvg-id="simpleTVFakeEpgId",Точка ТВ
+https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Продвижение.png" tvg-id="simpleTVFakeEpgId",Продвижение
+https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="simpleTVFakeEpgId",Суббота
+https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
+#EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Успех.png" tvg-id="simpleTVFakeEpgId",Успех
+https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="simpleTVFakeEpgId",Матч! Планета
+https://100.free-iptvchannel.workers.dev/match_planeta/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 1 HD
+https://100.free-iptvchannel.workers.dev/match_futbol_1_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 2.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 2
+https://100.free-iptvchannel.workers.dev/match_futbol_2/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 2 HD
+https://100.free-iptvchannel.workers.dev/match_futbol_2_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 3.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 3
+https://100.free-iptvchannel.workers.dev/match_futbol_3/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 3 HD.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 3 HD
+https://100.free-iptvchannel.workers.dev/match_futbol_3_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",Окко Спорт HD
+https://100.free-iptvchannel.workers.dev/okko_sport_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",Окко Футбол HD
+https://100.free-iptvchannel.workers.dev/okko_futbol_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",Окко Прайм Спорт HD
+https://100.free-iptvchannel.workers.dev/okko_praym_sport_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Футбол HD.png" tvg-id="simpleTVFakeEpgId",Футбол HD
+https://100.free-iptvchannel.workers.dev/futbol_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 HD
+https://100.free-iptvchannel.workers.dev/setanta_sports_1_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 2 HD
+https://100.free-iptvchannel.workers.dev/setanta_sports_2_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Казахстан HD
+https://100.free-iptvchannel.workers.dev/setanta_sports_qazaqstan_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports HD Украина
+https://100.free-iptvchannel.workers.dev/setanta_sports_ukraine_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports+ HD Украина
+https://100.free-iptvchannel.workers.dev/setanta_sports_plus_ukraine_hd/index.m3u8
 #EXTINF:1 group-title="4 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
 https://vod.splay.uz/live_splay/cinema/playlist.m3u8
 #EXTINF:1 group-title="4 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Sevimili UZ
@@ -224,7 +104,7 @@ https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
 #EXTINF:4 group-title="4 UZBEKISTAN" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV
 https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
 #EXTINF:4 group-title="4 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Zor TV HD
-https://stream8.cinerama.uz/7016/tracks-v3a1/mono.m3u8?token=v4U6uf8YTXmmSw7yoWLPCMK47hgfW8fpvgHwWyFGPHWbfwPsluQDW-2PY50zgkCBiBuNujfR38yL5c7PCikw_ub137_-GciyFlJ2GjfXB0qrx1WuyF53jB4eLR5t_II-TwxWZQe_tm4riTS-bHUxtcLf3WvAqk6jQTaic1Ta4C7BbCJWu6jemtVNxaK3JUHXL2KYvb5mZ4xqn0X7CpgtOjW_GV2Dvdybqc21TizRLRHONhj6c8t53GEtpj-vln9oCBRNwV8SMqkUtY-U1YZ4koIoJMdkdpx-0hzfl6OrgMnkgtvm88XcENFhnE6QVoemsgb5xebhAjSXNt1Eo8ngL3yoLq8fCzD0xvYT73MbKjM
+https://stream8.cinerama.uz/7016/tracks-v3a1/mono.m3u8
 #EXTINF:5 group-title="4 UZBEKISTAN" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV kino
 https://stream8.cinerama.uz/1486/tracks-v1a1/mono.m3u8
 #EXTINF:5 group-title="4 UZBEKISTAN" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinoteatr
