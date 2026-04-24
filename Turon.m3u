@@ -61,36 +61,6 @@ https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
 https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Успех.png" tvg-id="simpleTVFakeEpgId",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="simpleTVFakeEpgId",Матч! Планета
-https://100.free-iptvchannel.workers.dev/match_planeta/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 1 HD
-https://100.free-iptvchannel.workers.dev/match_futbol_1_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 2.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 2
-https://100.free-iptvchannel.workers.dev/match_futbol_2/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 2 HD
-https://100.free-iptvchannel.workers.dev/match_futbol_2_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 3.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 3
-https://100.free-iptvchannel.workers.dev/match_futbol_3/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Футбол 3 HD.png" tvg-id="simpleTVFakeEpgId",Матч! Футбол 3 HD
-https://100.free-iptvchannel.workers.dev/match_futbol_3_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",Окко Спорт HD
-https://100.free-iptvchannel.workers.dev/okko_sport_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",Окко Футбол HD
-https://100.free-iptvchannel.workers.dev/okko_futbol_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",Окко Прайм Спорт HD
-https://100.free-iptvchannel.workers.dev/okko_praym_sport_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Футбол HD.png" tvg-id="simpleTVFakeEpgId",Футбол HD
-https://100.free-iptvchannel.workers.dev/futbol_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 HD
-https://100.free-iptvchannel.workers.dev/setanta_sports_1_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 2 HD
-https://100.free-iptvchannel.workers.dev/setanta_sports_2_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Казахстан HD
-https://100.free-iptvchannel.workers.dev/setanta_sports_qazaqstan_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports HD Украина
-https://100.free-iptvchannel.workers.dev/setanta_sports_ukraine_hd/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="simpleTVFakeEpgId",Setanta Sports+ HD Украина
-https://100.free-iptvchannel.workers.dev/setanta_sports_plus_ukraine_hd/index.m3u8
 #EXTINF:1 group-title="4 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
 https://vod.splay.uz/live_splay/cinema/playlist.m3u8
 #EXTINF:1 group-title="4 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Sevimili UZ
