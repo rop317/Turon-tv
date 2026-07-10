@@ -1,109 +1,109 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:22 group-title="1 UZBEKISTAN",Sevimli cinema FHD
+#EXTINF:22 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
 https://vod.splay.uz/live_splay/cinema/playlist.m3u8
-#EXTINF:1 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Sevimili UZ
+#EXTINF:1 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Sevimili UZ
 https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:2 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Mening Yurtim FHD UZ
+#EXTINF:2 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Mening Yurtim FHD UZ
 https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:3 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",S Cinema
+#EXTINF:3 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",S Cinema
 https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:3 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Milliy TV UZ
+#EXTINF:3 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Milliy TV UZ
 https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:4 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV
+#EXTINF:4 group-title="3 Turon" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV
 https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:4 group-title="1 UZBEKISTAN",Zor TV HD
+#EXTINF:4 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Zor TV HD
 https://stream8.cinerama.uz/1016/tracks-v3a1/mono.m3u8
-#EXTINF:5 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV kino
+#EXTINF:5 group-title="3 Turon" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV kino
 https://stream8.cinerama.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:5 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinoteatr
+#EXTINF:5 group-title="3 Turon" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinoteatr
 https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:6 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/MTV Live HD.png" tvg-id="simpleTVFakeEpgId",Qiziq Tv
+#EXTINF:6 group-title="3 Turon" tvg-logo="../Channel/Logo/MTV Live HD.png" tvg-id="simpleTVFakeEpgId",Qiziq Tv
 https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
-#EXTINF:6 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",BizTV HD UZ
+#EXTINF:6 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",BizTV HD UZ
 https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:7 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Muloqot Tv
+#EXTINF:7 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Muloqot Tv
 https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
-#EXTINF:7 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Biz Cinema UZ
+#EXTINF:7 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Biz Cinema UZ
 https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:8 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV UZ
+#EXTINF:8 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV UZ
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:9 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/Luxury.png" tvg-id="simpleTVFakeEpgId",Lux TV
+#EXTINF:9 group-title="3 Turon" tvg-logo="../Channel/Logo/Luxury.png" tvg-id="simpleTVFakeEpgId",Lux TV
 https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:10 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",ETV
+#EXTINF:10 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",ETV
 https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
-#EXTINF:10 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Makon Tv
+#EXTINF:10 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Makon Tv
 https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:11 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",JTV
+#EXTINF:11 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",JTV
 https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
-#EXTINF:12 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",ATV
+#EXTINF:12 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",ATV
 https://stream8.cinerama.uz/1491/tracks-v1a1/mono.m3u8
-#EXTINF:12 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/Eurosport Gold HD.png" tvg-id="simpleTVFakeEpgId",Gold Tv
+#EXTINF:12 group-title="3 Turon" tvg-logo="../Channel/Logo/Eurosport Gold HD.png" tvg-id="simpleTVFakeEpgId",Gold Tv
 https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
-#EXTINF:13 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",Shifo Tv
+#EXTINF:13 group-title="3 Turon" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",Shifo Tv
 https://stream8.cinerama.uz/1469/tracks-v1a1/mono.m3u8
-#EXTINF:13 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Itv cinema
+#EXTINF:13 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Itv cinema
 https://stream8.cinerama.uz/4000/tracks-v1a1/mono.m3u8
-#EXTINF:14 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/NASA HD.png" tvg-id="simpleTVFakeEpgId",Nasaf Tv
+#EXTINF:14 group-title="3 Turon" tvg-logo="../Channel/Logo/NASA HD.png" tvg-id="simpleTVFakeEpgId",Nasaf Tv
 https://stream8.cinerama.uz/2025/tracks-v1a1/mono.m3u8
-#EXTINF:14 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Ruxsor TV UZ
+#EXTINF:14 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Ruxsor TV UZ
 https://stream8.cinerama.uz/4008/tracks-v1a1/mono.m3u8
-#EXTINF:15 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Jaslar Tv
+#EXTINF:15 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Jaslar Tv
 https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
-#EXTINF:15 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Solnechniy Tv 1080p
+#EXTINF:15 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Solnechniy Tv 1080p
 https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:15 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Renessans TV UZ
+#EXTINF:15 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Renessans TV UZ
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:16 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Uzbekiston
+#EXTINF:16 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Uzbekiston
 https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:17 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Yoshlar
+#EXTINF:17 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Yoshlar
 https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:18 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Toshkent
+#EXTINF:18 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Toshkent
 https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:19 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",UzSport
+#EXTINF:19 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",UzSport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:20 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",RETRO
+#EXTINF:20 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",RETRO
 https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
-#EXTINF:20 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",Ntv UZ
+#EXTINF:20 group-title="3 Turon" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",Ntv UZ
 https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:21 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Mimi Tv
+#EXTINF:21 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Mimi Tv
 https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
-#EXTINF:21 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Ikbol Tv
+#EXTINF:21 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Ikbol Tv
 https://stream8.cinerama.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:22 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Istiqlol TV
+#EXTINF:22 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Istiqlol TV
 https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:23 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
+#EXTINF:23 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
 https://vod.splay.uz/live_splay/kids/playlist.m3u8
-#EXTINF:23 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Dunyo bo`ylab UZ
+#EXTINF:23 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Dunyo bo`ylab UZ
 https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:24 group-title="1 UZBEKISTAN" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId",Bolajon
+#EXTINF:24 group-title="3 Turon" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId",Bolajon
 https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:25 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Aqlvoy TV UZ
+#EXTINF:25 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Aqlvoy TV UZ
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:26 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Mahalla
+#EXTINF:26 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Mahalla
 https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:27 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Uzbekistan 24
+#EXTINF:27 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Uzbekistan 24
 https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:28 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Uzreport HD
+#EXTINF:28 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Uzreport HD
 https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:29 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Futbol Tv
+#EXTINF:29 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Futbol Tv
 https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
-#EXTINF:30 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Мuz ТV UZ
+#EXTINF:30 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Мuz ТV UZ
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:31 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Itv Music
+#EXTINF:31 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Itv Music
 https://stream8.cinerama.uz/4001/tracks-v1a1/mono.m3u8
-#EXTINF:32 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Qoraqlpaqstan
+#EXTINF:32 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Qoraqlpaqstan
 https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:33 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",FTV
+#EXTINF:33 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",FTV
 https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:34 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Biz Music HD UZ
+#EXTINF:34 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Biz Music HD UZ
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:35 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",S Music
+#EXTINF:35 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",S Music
 https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
-#EXTINF:36 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Ozbekiston Tarixi HD UZ
+#EXTINF:36 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Ozbekiston Tarixi HD UZ
 https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:37 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Madaniyat va marifat
+#EXTINF:37 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Madaniyat va marifat
 https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:38 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Navo
+#EXTINF:38 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Navo
 https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
 #EXTINF:39 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" tvg-id="simpleTVFakeEpgId",Первый  канал
 https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
@@ -175,9 +175,9 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:73 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
 https://stream8.cinerama.uz/1436/tracks-v1a1/mono.m3u8
-#EXTINF:74 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 1.png",Setanta Sports 1 HD
+#EXTINF:74 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 1.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:75 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png",Setanta Sports 2 HD
+#EXTINF:75 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png" tvg-id="simpleTVFakeEpgId",Setanta Sports 2 HD
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:76 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9322",MMA-TV.COM
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
@@ -315,11 +315,119 @@ https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:143 group-title="2 RUSSIA" tvg-logo="https://veranzo.ru/other/icons/TORRE RICCA.png" tvg-id="simpleTVFakeEpgId",TRT Haber
 https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 UZBEKISTAN" tvg-id="simpleTVFakeEpgId",Xorazm MTRK
+#EXTINF:-1 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Xorazm MTRK
 https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 UZBEKISTAN",Hayot Tv
+#EXTINF:-1 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Hayot Tv
 https://stream8.cinerama.uz/1064/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 UZBEKISTAN",Retro Tv
+#EXTINF:-1 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Retro Tv
 https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1 UZBEKISTAN",Zo'r Tv
+#EXTINF:-1 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Zo'r Tv
 https://stream8.cinerama.uz/1197/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Узбекистан
+https://itvuz.playtv2099.workers.dev/channel/1.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ёшлар
+https://itvuz.playtv2099.workers.dev/channel/3.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ташкент
+https://itvuz.playtv2099.workers.dev/channel/4.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MY5 HD
+https://itvuz.playtv2099.workers.dev/channel/15.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MY5 SD
+https://itvuz.playtv2099.workers.dev/channel/139.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Milliy TV HD
+https://itvuz.playtv2099.workers.dev/channel/16.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Milliy SD
+https://itvuz.playtv2099.workers.dev/channel/138.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBw8Hl5j04BqByQQFLYCIDkRNbhwvp2yt8p58IczpxWzYcIGGesY6PiZU&s=10" tvg-id="simpleTVFakeEpgId",ZO'R TV FHD
+https://itvuz.playtv2099.workers.dev/channel/256.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Andijon
+https://itvuz.playtv2099.workers.dev/channel/244.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Fergana MTRK
+https://itvuz.playtv2099.workers.dev/channel/245.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Navoi
+https://itvuz.playtv2099.workers.dev/channel/246.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Qashkadaryo
+https://itvuz.playtv2099.workers.dev/channel/247.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Sirdaryo
+https://itvuz.playtv2099.workers.dev/channel/248.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Surxondaryo MTRK
+https://itvuz.playtv2099.workers.dev/channel/249.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Xorazm MTRK
+https://itvuz.playtv2099.workers.dev/channel/250.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jizzax
+https://itvuz.playtv2099.workers.dev/channel/251.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Namangan
+https://itvuz.playtv2099.workers.dev/channel/252.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Qaraqalpaqstan
+https://itvuz.playtv2099.workers.dev/channel/253.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Samarkand
+https://itvuz.playtv2099.workers.dev/channel/254.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Bukhara
+https://itvuz.playtv2099.workers.dev/channel/255.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Nurafshon TV
+https://itvuz.playtv2099.workers.dev/channel/147.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Vodiy TV
+https://itvuz.playtv2099.workers.dev/channel/257.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ellikqala TV
+https://itvuz.playtv2099.workers.dev/channel/268.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",8TV
+https://itvuz.playtv2099.workers.dev/channel/269.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Denov TV
+https://itvuz.playtv2099.workers.dev/channel/290.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Amudaryo TV
+https://itvuz.playtv2099.workers.dev/channel/270.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Nasaf TV
+https://itvuz.playtv2099.workers.dev/channel/271.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV
+https://itvuz.playtv2099.workers.dev/channel/272.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV Kino
+https://itvuz.playtv2099.workers.dev/channel/277.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jaslar TV
+https://itvuz.playtv2099.workers.dev/channel/273.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MakonTV HD
+https://itvuz.playtv2099.workers.dev/channel/287.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV
+https://itvuz.playtv2099.workers.dev/channel/77.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Renessans TV
+https://itvuz.playtv2099.workers.dev/channel/89.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Gold Television
+https://itvuz.playtv2099.workers.dev/channel/96.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ruxsor TV
+https://itvuz.playtv2099.workers.dev/channel/137.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jizzax TV
+https://itvuz.playtv2099.workers.dev/channel/266.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",iTV Cinema
+https://itvuz.playtv2099.workers.dev/channel/143.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",iTV Music
+https://itvuz.playtv2099.workers.dev/channel/144.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV Musiqa
+https://itvuz.playtv2099.workers.dev/channel/276.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Navo
+https://itvuz.playtv2099.workers.dev/channel/9.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03//78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",DasturxonTV
+https://itvuz.playtv2099.workers.dev/channel/145.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Kinoteatr HD
+https://itvuz.playtv2099.workers.dev/channel/11.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Dunyo bo`ylab
+https://itvuz.playtv2099.workers.dev/channel/17.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Shifo TV
+https://itvuz.playtv2099.workers.dev/channel/258.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Mimi TV
+https://itvuz.playtv2099.workers.dev/channel/259.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Bolajon
+https://itvuz.playtv2099.workers.dev/channel/8.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Aqlvoy
+https://itvuz.playtv2099.workers.dev/channel/142.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",ishonch TV
+https://itvuz.playtv2099.workers.dev/channel/267.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Muloqot TV
+https://itvuz.playtv2099.workers.dev/channel/275.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Madaniyat va Marifat
+https://itvuz.playtv2099.workers.dev/channel/6.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Mahalla
+https://itvuz.playtv2099.workers.dev/channel/7.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",O'zbekiston tarixi FHD
+https://itvuz.playtv2099.workers.dev/channel/81.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",O'zbekiston 24 HD
+https://itvuz.playtv2099.workers.dev/channel/12.m3u8
+#EXTINF:-1 group-title="1 Uzb" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Uzreport HD
+https://itvuz.playtv2099.workers.dev/channel/25.m3u8
