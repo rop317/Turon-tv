@@ -1,4 +1,128 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Oʻzbekiston
+https://cdn.itvuz.workers.dev/stream/0?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Yoshlar
+https://cdn.itvuz.workers.dev/stream/1?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Toshkent
+https://cdn.itvuz.workers.dev/stream/2?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",O'zbekiston 24 HD
+https://cdn.itvuz.workers.dev/stream/3?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/12//879fc874-2679-4f56-81b9-9bceb4b04ccd-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Zoʻr TV FHD
+https://cdn.itvuz.workers.dev/stream/4?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/12//3436bbe3-43fc-4f4d-a15f-afd586a8f7bd-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Zoʻr TV HD
+https://cdn.itvuz.workers.dev/stream/5?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Milliy TV HD
+https://cdn.itvuz.workers.dev/stream/6?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Milliy SD
+https://cdn.itvuz.workers.dev/stream/7?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MY5 HD
+https://cdn.itvuz.workers.dev/stream/8?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MY5 SD
+https://cdn.itvuz.workers.dev/stream/9?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/30//4b9b4faa5635e282bb1f3ece579c5fea-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Sevimli TV FHD
+https://cdn.itvuz.workers.dev/stream/10?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",iTV Cinema
+https://cdn.itvuz.workers.dev/stream/11?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/09/18//5cf836db9faacd4b41f57e70671f942b-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Retro TV
+https://cdn.itvuz.workers.dev/stream/12?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/09/18//7317b6d18e305e72f6cb3c5c69212a12-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Qiziq TV
+https://cdn.itvuz.workers.dev/stream/13?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV
+https://cdn.itvuz.workers.dev/stream/14?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/19//2b9d5460c300fafc6cac117e0650b4fd-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",S-Ikbol
+https://cdn.itvuz.workers.dev/stream/15?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/26//3b502b779ef41d61b37bc535bf869f87-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",NTV
+https://cdn.itvuz.workers.dev/stream/16?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/10/28//a29a63851d77f2b79dd890b5e888b72d-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Lux TV
+https://cdn.itvuz.workers.dev/stream/17?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/06//d650b7a25deeb8a4f48a899eca793598-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Biz TV
+https://cdn.itvuz.workers.dev/stream/18?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/24//b2e7b7a4e645fbef99b302d06b35670d-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Biz Cinema
+https://cdn.itvuz.workers.dev/stream/19?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Gold Television
+https://cdn.itvuz.workers.dev/stream/20?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ruxsor TV
+https://cdn.itvuz.workers.dev/stream/21?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Nurafshon TV
+https://cdn.itvuz.workers.dev/stream/22?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Kinoteatr HD
+https://cdn.itvuz.workers.dev/stream/23?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Vodiy TV
+https://cdn.itvuz.workers.dev/stream/24?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Shifo TV
+https://cdn.itvuz.workers.dev/stream/25?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV
+https://cdn.itvuz.workers.dev/stream/26?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV Kino
+https://cdn.itvuz.workers.dev/stream/27?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jizzax TV 2
+https://cdn.itvuz.workers.dev/stream/28?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",ishonch TV
+https://cdn.itvuz.workers.dev/stream/29?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/26//0cc702bdf78b38aff615d7c502dd4fe2-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Istiqlol TV
+https://cdn.itvuz.workers.dev/stream/30?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ellikqala TV
+https://cdn.itvuz.workers.dev/stream/31?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",8TV
+https://cdn.itvuz.workers.dev/stream/32?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Amudaryo TV
+https://cdn.itvuz.workers.dev/stream/33?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Nasaf TV
+https://cdn.itvuz.workers.dev/stream/34?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jaslar TV
+https://cdn.itvuz.workers.dev/stream/35?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Muloqot TV
+https://cdn.itvuz.workers.dev/stream/36?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Makon TV HD
+https://cdn.itvuz.workers.dev/stream/37?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Farovon Yurt
+https://cdn.itvuz.workers.dev/stream/38?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Denov TV
+https://cdn.itvuz.workers.dev/stream/39?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",HayotTV
+https://cdn.itvuz.workers.dev/stream/40?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Andijon
+https://cdn.itvuz.workers.dev/stream/41?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Fargʻona
+https://cdn.itvuz.workers.dev/stream/42?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Navoiy
+https://cdn.itvuz.workers.dev/stream/43?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Qashqadaryo
+https://cdn.itvuz.workers.dev/stream/44?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Sirdaryo
+https://cdn.itvuz.workers.dev/stream/45?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Surxondaryo
+https://cdn.itvuz.workers.dev/stream/46?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Xorazm
+https://cdn.itvuz.workers.dev/stream/47?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jizzax
+https://cdn.itvuz.workers.dev/stream/48?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Namangan
+https://cdn.itvuz.workers.dev/stream/49?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Qaraqalpaqstan
+https://cdn.itvuz.workers.dev/stream/50?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Buxoro
+https://cdn.itvuz.workers.dev/stream/51?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Samarqand
+https://cdn.itvuz.workers.dev/stream/52?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Renessans TV
+https://cdn.itvuz.workers.dev/stream/53?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//0e264d0a734bc52d4887a98dddd13bfa-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MYDAYTV
+https://cdn.itvuz.workers.dev/stream/54?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",DasturxonTV
+https://cdn.itvuz.workers.dev/stream/55?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Madaniyat va Marifat
+https://cdn.itvuz.workers.dev/stream/56?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Mahalla
+https://cdn.itvuz.workers.dev/stream/57?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",O'zbekiston tarixi FHD
+https://cdn.itvuz.workers.dev/stream/58?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Dunyo bo`ylab
+https://cdn.itvuz.workers.dev/stream/59?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Uzreport HD
+https://cdn.itvuz.workers.dev/stream/60?key=zunotv
+#EXTINF:-1 group-title="Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Mimi TV
+https://cdn.itvuz.workers.dev/stream/109?key=zunotv
 #EXTINF:22 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
 https://vod.splay.uz/live_splay/cinema/playlist.m3u8
 #EXTINF:1 group-title="3 Turon" tvg-id="simpleTVFakeEpgId",Sevimili UZ
